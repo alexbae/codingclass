@@ -37,7 +37,7 @@ button:focus {
     color: white;
 }
 
-button:first-child{
+button:first-child {
 
     background-color: rgb(143, 1, 1);
     color: white;
