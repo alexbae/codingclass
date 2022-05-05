@@ -27,16 +27,18 @@
 
     background-color: rgb(143, 1, 1);
     margin-left: 20px;
+    color: white;
 
 }
 
 button:focus {
 
     background-color: rgb(143, 1, 1);
+    color: white;
 }
 
 button:first-child{
 
     background-color: rgb(143, 1, 1);
-    
+    color: white;
 }
